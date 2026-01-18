@@ -7,7 +7,7 @@ This project demonstrates core JavaScript concepts like:
 - setInterval()
 - DOM manipulation
 - Event handling
-- 
+  
 ---
 
 ## Features
