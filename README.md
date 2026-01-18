@@ -28,5 +28,4 @@ This project demonstrates core JavaScript concepts like:
 
 ---
 
-## 📂 Project Structure
 
